@@ -1,3 +1,3 @@
 # Example. How to scrape news body
 
-![Screenshot](screen.png)
+![Screenshot](screen1.png)
