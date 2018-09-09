@@ -1,1 +1,1 @@
-# reuters_body
+# Example. How to scrape news body
